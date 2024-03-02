@@ -3,6 +3,4 @@ project(host)
 
 set(CMAKE_CXX_STANDARD 23)
 
-add_executable(host main.cpp
-        json.h
-        libexecstream/exec-stream.cpp)
+add_executable(host main.cpp libexecstream/exec-stream.cpp)
