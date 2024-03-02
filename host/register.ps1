@@ -10,7 +10,7 @@ $jsonObject = @{
     description = "TypeScript Formatter Extension Host"
     path = $hostExePath
     type = "stdio"
-    allowed_origins = @("chrome-extension://ebkbgnmkkebikgiohnipickpecmcilep/")
+    allowed_origins = @("chrome-extension://jbphogdfaibajdockilfkjiemmfinbbi/")
 }
 
 # Convert the JSON object to a JSON string
