@@ -49,4 +49,8 @@ the `"chrome-extension://ebkbgnmkkebikgiohnipickpecmcilep/"` with the ID of the 
 > [!NOTE]
 > Since the extension is not yet published, the ID of the extension is not determined. The `allowed_origins` field is
 > set to the ID of the extension on my machine. The ID of the extension on your machine will be different. You can find
-> it in `edge://extensions/` after installing it. 
+> it in `edge://extensions/` after installing it.
+
+## Usage
+
+Open a document in [Typst App](https://typst.app/), click the extension button and your document should be formatted!
