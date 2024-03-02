@@ -1,0 +1,6 @@
+**/node_modules
+**/cmake-build-debug
+
+# Host
+host/manifest.json
+host/host.exe

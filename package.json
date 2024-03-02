@@ -1,0 +1,6 @@
+{
+  "name": "typstfmt-ext",
+  "dependencies": {
+    "chrome-types": "^0.1.270"
+  }
+}
